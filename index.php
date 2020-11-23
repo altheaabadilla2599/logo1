@@ -9,6 +9,7 @@ body{
 	background-color: #88aed0;
 	min-height: 100vh;	
 	padding-bottom: 300px;
+	position: relative;
 	
 
 }
