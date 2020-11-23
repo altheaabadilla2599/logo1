@@ -10,7 +10,7 @@ body{
 	min-height: 100vh;	
 	padding-bottom: 300px;
 	position: relative;
-	overflow-x: hidden;
+	
 	
 
 }
