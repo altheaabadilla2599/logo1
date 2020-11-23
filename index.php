@@ -574,24 +574,7 @@ svg {
 
 
 
-#holder18{
-	width: 150px;
-	height: 90px;
-	margin-left: 1000px;
-	background-color: tranparent;
-	margin-top: -150px;
-	position: absolute;
-	animation: slide 12s linear 0s infinite;
-}
 
-@keyframes slide {
-  from {
-    right: 0;
-  } 
-  to {
-    right: 1000px;
-  } 
-}
 
 #holder19 {
 	width: 100px;
@@ -880,9 +863,7 @@ footer{
 <footer>
 <img src="background2.svg">
 
-<div id="holder18">
-<img src="design3.svg" width="100px" height="100px">
-</div>
+
 
 <div id="holder19">
 <img src="design4.svg" width="100px" height="100px">
